@@ -2,6 +2,13 @@
 
 This is the source of the parisjs.org website.
 
+## Utils
+
+### Parsing all meetups and talks
+
+    npm install jsdom
+    node utils/meetups.js
+
 ## License
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
